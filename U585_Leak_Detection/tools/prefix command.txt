@@ -1,5 +1,0 @@
-cd C:\Users\User\OneDrive\Desktop\UNM\EEEE4077_Code_U5\U585_Leak_Detection 
-
-python tools/prefix_neai_lib.py --in Drivers/NanoEdgeAI_Audio/lib/libneai_audio.a --out Drivers/NanoEdgeAI_Audio/lib/libneai_audio_prefixed.a --prefix neai_audio_
-
-python tools/prefix_neai_lib.py --in Drivers/NanoEdgeAI_Vibration/lib/libneai_vibration.a --out Drivers/NanoEdgeAI_Vibration/lib/libneai_vibration_prefixed.a --prefix neai_vibration_
